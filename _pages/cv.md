@@ -19,7 +19,7 @@ Work experience
   * National University of Singapore
   * High Performance Computing for Artificial Intelligence (HPC-AI) Lab
 
-* 2019.10-2020.2: Research Assitant
+* 2019.10-2020.2: Research Assistant
   * Zhejiang University
   * Computational Social Science Research Center
 
