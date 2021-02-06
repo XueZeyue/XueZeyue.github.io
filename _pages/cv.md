@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Telecommunication Engineering, Huazhong University of Science and Technology, 2021 (expected)
+* B.E. in Telecommunication Engineering, Huazhong University of Science and Technology, 2021 (expected)
 
 Work experience
 ======
