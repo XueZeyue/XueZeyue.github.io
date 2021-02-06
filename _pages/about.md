@@ -16,7 +16,7 @@ You can download his [CV](http://xuezeyue.github.io/files/resume.pdf) to view th
 
 Research Interests
 ======
-  * Machine learning
+  * Machine Learning
   * High Performance Computing
   * Edge Computing
 
