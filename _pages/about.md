@@ -12,7 +12,7 @@ Zeyue Xue is an undergraduate student who majors in Telecommunication Engineerin
 
 He also has a good sense of research. He participated in the big data intelligence lab in his year 2 and already maintained a two-year research experience till now. He currently focuses on speeding up deep learning recommendation system based on distributed system. If you want to discuss something or need any more information, please feel free to contact him via email.
 
-You can download his [CV](http://xuezeyue.github.io/files/resume.pdf) to view the details about his research projects.  
+You can download his [CV](http://xuezeyue.github.io/files/resume.pdf) to view the details about his research projects and publications.  
 
 Research Interests
 ======
