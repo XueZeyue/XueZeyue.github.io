@@ -30,7 +30,7 @@ Work experience
 Skills
 ======
 * Coding Skills:  C, C++, Java, MATLAB, Python, Latex, FPGA
-* Interests: Heavy Metal Music, Hiking
+* Interests: Power Metal Music, Hiking, Genshin Impact
 
 Full Resume
 ======
