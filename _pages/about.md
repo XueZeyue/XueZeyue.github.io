@@ -16,7 +16,7 @@ You can download his [CV](http://xuezeyue.github.io/files/resume.pdf) to view th
 
 Research Interests
 ======
-  * Machine Learning
-  * High Performance Computing
+  * Deep Learning System
+  * Computer Vision
   * Large-Scale Deep Learning
 
