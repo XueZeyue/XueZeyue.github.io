@@ -15,8 +15,8 @@ My research interests lie in large-scale deep learning and AIGC foundation model
 
 Research Interests
 ======
+  * Large-scale deep learning
   * AIGC
-  * Large-Scale Deep Learning
 
 **Publications**
 ======
