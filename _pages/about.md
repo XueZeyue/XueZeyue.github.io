@@ -8,15 +8,19 @@ redirect_from:
   - /about.html
 ---
 
-Zeyue Xue, who majors in Telecommunication Engineering, graduated from the Huazhong Univerisity of Science and Technology with highest honor in 2021. He fully takes the advantage of his a wide range of interests and interdisciplinary knowledge. He won numerous reputations in his college life, such as National Scholarship (Top 2%), Extremely Outstanding Undergraduate (1/130) and Honorary Bachelor Degree (2/122). He will join the MMLAB@HKU as a PhD student under the supervision of Ping Luo. Currently, he is a research intern at Sensetime Research, working on optimization for huge neural network and large-scale deep learning.
+Hello, I'm Zeyue Xue, a first-year PhD student in the Computer Science Department of The University of Hong Kong, advised by Prof. Ping Luo and co-advised by Prof. Wenping Wang (ACM Fellow). 
 
-He also has a good sense of research. He participated in the big data intelligence lab in his year 2 and already maintained a two-year research experience till now. He currently focuses on speeding up training huge neural network on distributed clusters. If you want to discuss something or need any more information, please feel free to contact him via email.
+My research interests are large-scale deep learning and AIGC foundation models. My paper on how to train Faster R-CNN in a few minutes has been covered by many famous Chinese medias. Besides, I'm also the core researcher and developer in Sensetime Basemodel team. **I'm responsible for pretraining and optimizing AIGC foundation models.**
 
-You can download his [CV](http://xuezeyue.github.io/files/resume.pdf) to view the details about his research projects and publications.  
 
 Research Interests
 ======
   * Deep Learning System
-  * Computer Vision
+  * AIGC
   * Large-Scale Deep Learning
+
+**Publications**
+======
+  * Zeyue Xue, et al. "Large-batch Optimization for Dense Visual Predictions: Training Faster R-CNN in 4.2 minutes", NeurIPS 2022.
+  * Zeyue Xue, et al. "A Resource-Constrained and Privacy-Preserving Edge-Computing-Enabled Clinical Decision System: A Federated Reinforcement Learning Approach", IEEE IoT-J, 2021.
 
