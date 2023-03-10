@@ -13,6 +13,7 @@ Education
 ======
 * Ph.D. in Computer Science, The University of Hong Kong, 2026 (expected)
 * B.E. in Telecommunication Engineering, Huazhong University of Science and Technology, 2021 
+  * Rank: 2/122, graduation with highest honor
 
 
 Work experience
