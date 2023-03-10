@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, I'm Zeyue Xue, a first-year PhD student in the Computer Science Department of The University of Hong Kong, advised by Prof. Ping Luo and co-advised by Prof. Wenping Wang (ACM Fellow). 
 
-My research interests are large-scale deep learning and AIGC foundation models. My paper on how to train Faster R-CNN in a few minutes has been covered by many famous Chinese medias. Besides, I'm also the core researcher and developer in Sensetime Basemodel team. **I'm responsible for pretraining and optimizing AIGC foundation models.**
+My research interests are large-scale deep learning and AIGC foundation models. My paper on how to train Faster R-CNN in a few minutes has been covered by many famous Chinese medias. Besides, I'm also a core researcher and developer in Sensetime Basemodel team. **I'm responsible for pretraining and optimizing AIGC foundation models.**
 
 
 Research Interests
