@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.E. in Telecommunication Engineering, Huazhong University of Science and Technology, 2021 
 * Ph.D. in Computer Science, The University of Hong Kong, 2026 (expected)
+* B.E. in Telecommunication Engineering, Huazhong University of Science and Technology, 2021 
+
 
 Work experience
 ======
