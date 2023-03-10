@@ -11,11 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.E. in Telecommunication Engineering, Huazhong University of Science and Technology, 2021 (expected)
+* B.E. in Telecommunication Engineering, Huazhong University of Science and Technology, 2021 
+* Ph.D. in Computer Science, The University of Hong Kong, 2026 (expected)
 
 Work experience
 ======
-* 2020.11-: Remote Research Assistant
+* 2021.9-: Research Intern
+  * Sensetime Research
+
+* 2020.11-2021.5: Research Intern
   * National University of Singapore
   * High Performance Computing for Artificial Intelligence (HPC-AI) Lab
 
@@ -32,6 +36,4 @@ Skills
 * Coding Skills:  C, C++, Java, MATLAB, Python, Latex, FPGA
 * Interests: Power Metal Music, Hiking, Genshin Impact
 
-Full Resume
-======
-  You can download [here](http://xuezeyue.github.io/files/resume.pdf)
+
