@@ -17,6 +17,7 @@ Research Interests
 ======
   * Large-scale deep learning
   * AIGC
+  * Vision-language foundation models
 
 **Publications**
 ======
