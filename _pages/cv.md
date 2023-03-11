@@ -19,19 +19,20 @@ Education
 Work experience
 ======
 * 2021.9-: Research Intern
-  * Sensetime Research
+  * Sensetime Basemodel Team
+  * Mentor: Guanglu Song
 
 * 2020.11-2021.5: Research Intern
   * National University of Singapore
-  * High Performance Computing for Artificial Intelligence (HPC-AI) Lab
+  * Advisor: Prof. Yang You
 
 * 2019.10-2020.2: Research Assistant
   * Zhejiang University
-  * Computational Social Science Research Center
+  * Advisor: Prof. Chao Wu
 
 * 2019.1-2019.3, 2020.2-2020.9: Research Assistant
   * Huazhong University of Science and Technology
-  * Big Data Intelligence Lab
+  * Advisor: Prof. Pan Zhou
   
 Skills
 ======
