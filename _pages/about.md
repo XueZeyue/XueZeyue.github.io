@@ -12,6 +12,8 @@ Hello, I'm Zeyue Xue, a first-year PhD student in the Computer Science Departmen
 
 My research interests lie in large-scale deep learning and AIGC foundation models. My paper on training Faster R-CNN in a few minutes has garnered significant coverage in many famous Chinese media. Besides, I serve as a core researcher and developer in Sensetime's Basemodel team. We are committed to designing and optimizing huge vision-language neural network (diffusion models and ChatGPT-style products),  **and I'm responsible for pretraining and optimizing AIGC foundation models.**
 
+I'm open to discuss on AIGC foundation models. If you are interested, please feel free to email me.
+
 
 Research Interests
 ======
