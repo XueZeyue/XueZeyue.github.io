@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Zeyue Xue, a first-year PhD student in the Computer Science Department of The University of Hong Kong, advised by Prof. Ping Luo and co-advised by Prof. Wenping Wang (ACM Fellow). My research interests lie in large-scale deep learning and Generative AI. If you are interested in my research, please feel free to email me.
+Hello, I'm Zeyue Xue (薛泽岳), a first-year PhD student in the Computer Science Department of The University of Hong Kong, advised by Prof. Ping Luo and co-advised by Prof. Wenping Wang (ACM Fellow). My research interests lie in large-scale deep learning and Generative AI. If you are interested in my research, please feel free to email me.
 
 
 Research Interests
