@@ -14,7 +14,7 @@ Hello, I'm Zeyue Xue (薛泽岳), a first-year PhD student in the Computer Scien
 Research Interests
 ======
   * Large-scale deep learning
-  * AIGC
+  * Generative AI
   * Vision-language foundation models
 
 **Publications**
