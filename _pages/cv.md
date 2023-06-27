@@ -18,8 +18,8 @@ Education
 
 Work experience
 ======
-* 2021.9-: Research Intern
-  * Sensetime Basemodel Team
+* 2021.9-Present: Research Intern
+  * SenseTime Research
   * Mentor: Guanglu Song
 
 * 2020.11-2021.5: Research Intern
