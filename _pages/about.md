@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Zeyue Xue, a first-year PhD student in the Computer Science Department of The University of Hong Kong, advised by Prof. Ping Luo and co-advised by Prof. Wenping Wang (ACM Fellow). 
-
-My research interests lie in large-scale deep learning and AIGC foundation models. I also serve as a core researcher and developer in SenseTime's Basemodel team. We are committed to designing and optimizing huge vision-language neural network, and I'm responsible for pretraining and optimizing AIGC foundation models (including  training acceleration, scalable network architecture design, image super-resolution, image quality optimization, etc).
-
-I'm open to discuss on AIGC foundation models. If you are interested, please feel free to email me.
+Hello, I'm Zeyue Xue, a first-year PhD student in the Computer Science Department of The University of Hong Kong, advised by Prof. Ping Luo and co-advised by Prof. Wenping Wang (ACM Fellow). My research interests lie in large-scale deep learning and Generative AI. If you are interested in my research, please feel free to email me.
 
 
 Research Interests
