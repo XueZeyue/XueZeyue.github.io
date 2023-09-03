@@ -12,6 +12,8 @@ Hello, I'm Zeyue Xue (薛泽岳), a first-year PhD student in the Computer Scien
 
 My representative work includes [SenseMirage](https://miaohua.sensetime.com/en), a large-scale image generator introduced in [RAPHAEL](https://arxiv.org/abs/2305.18295).
 
+<font color='red'> I am actively searching for a summer research intern position in the United States for 2024. If you are interested, please feel free to email me. </font>
+
 
 Research Interests
 ======
