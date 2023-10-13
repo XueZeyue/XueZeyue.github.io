@@ -26,17 +26,14 @@ Work experience
   * National University of Singapore
   * Advisor: Prof. Yang You
 
-* 2019.10-2020.2: Research Assistant
-  * Zhejiang University
-  * Advisor: Prof. Chao Wu
-
-* 2019.1-2019.3, 2020.2-2020.9: Research Assistant
-  * Huazhong University of Science and Technology
-  * Advisor: Prof. Pan Zhou
   
 Skills
 ======
 * Coding Skills:  C, C++, Java, MATLAB, Python, Latex, FPGA
 * Interests: Power Metal Music, Hiking, Genshin Impact
+
+**Friends**
+======
+Borui Wan (HKU), Juntao Zhao (HKU), Lingting Zhu (HKU), Zhuofan Zong (Sensetime Research)
 
 
