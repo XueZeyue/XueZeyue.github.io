@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Computer Science, The University of Hong Kong, 2026 (expected)
 * B.E. in Telecommunication Engineering, Huazhong University of Science and Technology, 2021 
-  * Rank: 2/122, graduation with highest honor
+  * Graduation with highest honor (top 1%)
 
 
 Work experience
@@ -30,7 +30,7 @@ Work experience
 Skills
 ======
 * Coding Skills:  C, C++, Java, MATLAB, Python, Latex, FPGA
-* Interests: Power Metal Music, Hiking, Genshin Impact
+* Interests: Power/Progressive Metal Music, Hiking, Genshin Impact
 
 **Friends**
 ======
