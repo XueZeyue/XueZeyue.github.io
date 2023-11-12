@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Zeyue Xue (薛泽岳), a second-year PhD student in the Computer Science Department of The University of Hong Kong, advised by Prof. Ping Luo and co-advised by Prof. Wenping Wang (ACM Fellow). While I am not primarily concerned with the "quantity" of papers published in top-tier conferences as a Ph.D. student, my passion lies in developing Generative AI products and platforms to serve the public. If you are interested in these topics, please feel free to email me.
+Hello, I’m Zeyue Xue, a researcher with a passion for building Generative AI products and platforms. I am currently a researcher at Xiaochuan (Midjourney, China). My last representative work includes [SenseMirage](https://miaohua.sensetime.com/zh-CN/picture-selection), a large-scale image generator introduced in [RAPHAEL](https://arxiv.org/abs/2305.18295), which has garnered **million-level** users within just **three months** of its public release
 
-My representative work includes [SenseMirage](https://miaohua.sensetime.com/zh-CN/picture-selection), a large-scale image generator introduced in [RAPHAEL](https://arxiv.org/abs/2305.18295), which has garnered **million-level** users within just **three months** of its public release.
+My research interests lie in large-scale deep learning and deep generative models. If you are interested in my research, please feel free to email me.
 
 
 Research Interests
