@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I’m Zeyue Xue, a researcher with a passion for building Generative AI products and platforms. I am currently a researcher at Xiaochuan (Midjourney, China). My last representative work includes [SenseMirage](https://miaohua.sensetime.com/zh-CN/picture-selection), a large-scale image generator introduced in [RAPHAEL](https://arxiv.org/abs/2305.18295), which has garnered **million-level** users within just **three months** of its public release
+Hello, I’m Zeyue Xue, a researcher with a passion for building Generative AI products and platforms. I am currently a researcher at Xiaochuan (Midjourney, China). My last representative work includes [SenseMirage](https://miaohua.sensetime.com/zh-CN/picture-selection), a large-scale image generator introduced in [RAPHAEL](https://arxiv.org/abs/2305.18295), which has garnered million-level users within just three months of its public release.
 
 My research interests lie in large-scale deep learning and deep generative models. If you are interested in my research, please feel free to email me.
 
@@ -16,7 +16,7 @@ My research interests lie in large-scale deep learning and deep generative model
 Research Interests
 ======
   * Large-scale deep learning
-  * Generative AI
+  * Deep generative models
 
 **Selected Publications**
 ======
