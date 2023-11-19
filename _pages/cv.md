@@ -9,12 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D. in Computer Science, The University of Hong Kong, 2026 (expected)
-* B.E. in Telecommunication Engineering, Huazhong University of Science and Technology, 2021 
-  * Graduation with highest honor (top 1%)
-
 
 Work experience
 ======
