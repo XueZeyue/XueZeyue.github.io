@@ -12,7 +12,7 @@ redirect_from:
 
 Work experience
 ======
-* 2023.11-Present
+* 2023.10-Present
   * Xiaochuan (Midjourney, China)
   * Researcher
 
