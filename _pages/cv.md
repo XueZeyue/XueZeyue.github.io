@@ -18,11 +18,7 @@ Work experience
 
 * 2021.9-2023.10
   * SenseTime Research
-  * Mentor: Guanglu Song
-
-* 2020.11-2021.5
-  * National University of Singapore
-  * Advisor: Prof. Yang You
+  * Working on large vision models
 
   
 Skills
