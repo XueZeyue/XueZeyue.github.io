@@ -17,7 +17,7 @@ Education
 Work experience
 ======
 * 2023.10-Present
-  * Youchuan (Midjourney, China)
+  * Midjourney, China
   * Researcher
 
 * 2021.9-2023.10
