@@ -32,6 +32,6 @@ Skills
 
 **Friends**
 ======
-Borui Wan (HKU), Juntao Zhao (HKU), Lingting Zhu (HKU), Zhuofan Zong (Sensetime Research)
+Borui Wan (HKU), Juntao Zhao (HKU), Lingting Zhu (HKU), Zhuofan Zong (Sensetime Research & CUHK)
 
 
