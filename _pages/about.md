@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I’m Zeyue Xue, a researcher with a passion for building Generative AI products and platforms. I am currently an AI advisor at Midjourney (China), optimizing the Chinese version of Midjourney. Besides, I am also a PhD student at The University of Hong Kong. Previously, I spent two years at SenseTime Research (working on training large vision models), and used to be a research assistant at NUS (working on large-batch optimization).
+Hello, I’m Zeyue Xue, a researcher with a passion for building Generative AI products and platforms. I am also a PhD student at The University of Hong Kong (MMLAB@HKU). Previously, I worked at [Youchuan](https://www.youchuanai.com/) (Midjourney China), SenseTime Research (working on training large vision models), and used to be a research assistant at NUS (working on large-batch optimization).
 
-We will announce some interesting projects in the near future. And my last representative work includes [SenseMirage](https://miaohua.sensetime.com/zh-CN/), a large-scale image generator introduced in [RAPHAEL](https://arxiv.org/abs/2305.18295), which is the official text-to-image product by SenseTime. 
-
-My research interests lie in large-scale deep learning and deep generative models. If you are interested in my research, please feel free to email me.
+My research interests lie in large-scale deep learning and deep generative models. **I am open to research collaborations on text-to-image/video diffusion models, and multi-modal LLMs. If you are interested, please feel free to email me.**
 
 
 Research Interests
