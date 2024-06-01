@@ -12,7 +12,7 @@ Hello, I’m Zeyue Xue, a researcher with a passion for building Generative AI p
 
 My research interests lie in large-scale deep learning and deep generative models. 
 
-**I am open to research collaborations on text-to-image/video diffusion models, and multi-modal LLMs. If you are interested, please feel free to email me.**
+<font color="red">I am actively looking for research collaborations on text-to-image/video diffusion models, and multi-modal LLMs. If you are interested, please feel free to email me.</font>
 
 
 Research Interests
