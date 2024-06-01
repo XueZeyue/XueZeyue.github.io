@@ -25,7 +25,7 @@ Work experience
   * Working on large vision models
  
 * 2020.11-2021.4
-  * SenseTime Research
+  * National University of Singapore
   * Working on large-batch training
 
   
