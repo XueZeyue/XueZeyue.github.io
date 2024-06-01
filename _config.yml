@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Zeyue Xue"
   avatar           : "profile.png"
-  bio              : "AI advisor at Midjourney (China)"
-  location         : "Hong Kong/Shanghai"
+  bio              : 
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : 
