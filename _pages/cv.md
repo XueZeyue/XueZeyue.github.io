@@ -16,13 +16,17 @@ Education
 
 Work experience
 ======
-* 2023.10-Present
+* 2023.10-2024.5
   * Midjourney, China
   * Researcher
 
 * 2021.9-2023.10
   * SenseTime Research
   * Working on large vision models
+ 
+* 2020.11-2021.4
+  * SenseTime Research
+  * Working on large-batch training
 
   
 Skills
