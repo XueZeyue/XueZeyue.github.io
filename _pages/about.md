@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I’m Zeyue Xue, a researcher with a passion for building Generative AI products and platforms. I am also a PhD student at The University of Hong Kong (MMLAB@HKU). Previously, I worked at [Youchuan](https://www.youchuanai.com/) (Midjourney China), SenseTime Research (working on training large vision models), and used to be a research assistant at NUS (working on large-batch optimization).
+Hello, I’m Zeyue Xue, a researcher with a passion for building Generative AI products and platforms. I am also a PhD student at The University of Hong Kong (MMLAB@HKU). Previously, I worked at [Midjourney China](https://www.youchuanai.com/), SenseTime Research (working on training large vision models), and used to be a research assistant at NUS (working on large-batch optimization).
 
 My research interests lie in large-scale deep learning and deep generative models. 
 
