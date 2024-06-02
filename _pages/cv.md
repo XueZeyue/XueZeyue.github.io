@@ -18,7 +18,7 @@ Work experience
 ======
 * 2023.10-2024.5
   * Midjourney, China
-  * Researcher
+  * Working on text-to-image generation
 
 * 2021.9-2023.10
   * SenseTime Research
