@@ -12,7 +12,7 @@ redirect_from:
 
 Work experience
 ======
-* 2023.10-2024.5
+* 2023.11-2024.5
   * Midjourney, China
   * Working on text-to-image generation
 
