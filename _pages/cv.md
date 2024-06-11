@@ -9,10 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* 2022.9~present
-  * PhD student@HKU, working on Machine Learning and Deep Generative Models
 
 Work experience
 ======
